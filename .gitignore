@@ -1,0 +1,30 @@
+# Bases y locks de Access
+*.mdb
+*.accdb
+*.ldb
+*.laccdb
+
+# Ejecutables y dependencias binarias legadas
+*.exe
+*.dll
+*.ocx
+*.oca
+*.lib
+*.exp
+*.zip
+*.rar
+*.7z
+
+# Datos sensibles / respaldos locales
+Respaldos/
+Backups/
+backup/
+*.bak
+*.log
+*.tmp
+
+# Sistema operativo / editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
